@@ -9,7 +9,6 @@ public class Step4_10 {
         double[]arr= new double[N];
         double max=0;
         double sum=0;
-        double avg=0;
 
         for(int i=0; i<N; i++){
             arr[i]=scan.nextInt();
